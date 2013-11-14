@@ -13,7 +13,7 @@ Audience not distracted by funny pictures will gain insight on how Ruby can be p
 
 Vassilis works at [Zühlke](http://www.zuehlke.com), introducing Ruby and the joys of devops to industry giants like Siemens, Lenze, Roche or Liebherr. 
 
-He's one of the redshirt survivors of EuRuKo 2013 and co-founder of [thessaloniki.rb](https://github.com/thessaloniki/rb) and has been pretending - somewhat successfully - to be an embedded software developer for over a dozen years now.
+He's one of the redshirt survivors of [EuRuKo 2013](http://euruko2013.org) and co-founder of [thessaloniki.rb](https://github.com/thessaloniki/rb) and has been pretending - somewhat successfully - to be an embedded software developer for over a dozen years now.
 
 ![redshirt](redshirt.jpg)
 
