@@ -22,5 +22,5 @@ Working in Ruby since late 2001 he has long claimed the title of eldest Ruby pro
 ![Profile picture](profile_picture.jpg)
 
 - [Blog](http://www.ampelofilosofies.gr)
-- [Twitter](https://twitter.com/#!/arcandros)
+- [Twitter](https://twitter.com/arcandros)
 - [Github](https://github.com/damphyr)
