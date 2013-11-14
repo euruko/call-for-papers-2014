@@ -11,7 +11,7 @@ Audience not distracted by funny pictures will gain insight on how Ruby can be p
 
 ## Vassilis Rizopoulos
 
-Vassilis works at [Zühlke](http://www.zuehlke.com), introducing Ruby and the joys of devops to industry giants like Siemens, Lenze, Roche or Liebherr. He's one of the redshirt survivors of EuRuKo 2013 and co-founder of thessaloniki.rb and has been pretending - somewhat successfully - to be an embedded software developer for over a dozen years now.
+Vassilis works at [Zühlke](http://www.zuehlke.com), introducing Ruby and the joys of devops to industry giants like Siemens, Lenze, Roche or Liebherr. He's one of the ![redshirt](redshirt.jpg) survivors of EuRuKo 2013 and co-founder of thessaloniki.rb and has been pretending - somewhat successfully - to be an embedded software developer for over a dozen years now.
 
 Working in Ruby since late 2001 he has long claimed the title of eldest Ruby programmer that has never written a production Rails app. That is, he has been claiming this up until the point Matz corrected him by claiming the title for himself. Now he just hangs his head in shame.
 
