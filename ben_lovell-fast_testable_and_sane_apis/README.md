@@ -17,7 +17,7 @@ go-nut, open source lover and contributor, and has spent the last XX years
 developing the most epic APIs. When not shipping bugs, Ben can be found grooming
 his beard.
 
-![Profile picture](https://github.com/benlovell/call-for-proposals/raw/master/example/profile_picture.jpg)
+![Profile picture](https://github.com/benlovell/call-for-papers/blob/master/ben_lovell-fast_testable_and_sane_apis/profile_picture.jpg)
 
 - [My website](http://github.com/benlovell)
 - [My twitter](https://twitter.com/#!/benlovell)
