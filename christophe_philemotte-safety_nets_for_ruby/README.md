@@ -40,7 +40,7 @@ PullReview, he helps other when facing dev challenge, he writes on
 He enjoys learning, his family, gardening (a true job), snowboarding, and playing
 role playing games and game of Go.
 
-![Profile picture](christophe_philemotte.jpg)
+![Profile picture](./christophe_philemotte.jpeg)
 
 - [Blog](https://blog.8thcolor.com)
 - [Twitter](https://twitter.com/_toch)
