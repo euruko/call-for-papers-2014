@@ -1,12 +1,11 @@
 # Safety Nets for Ruby: Habits to code with confidence
 
-As a dynamic language, Ruby brings you a lot of nice feature such as duck typing
-allowing you to do easy dependency injection. However, we won't be aware of an
-error or a bug in your Ruby code before running it. We cannot afford to wait for
-shipping it to know, the cost is too high. That's why it's important to put in
-place different strategies to help us to catch those errors asap, but also to
-avoid the cruft long term. Like a safety net, they allow you to go forward
-with more confidence.
+Ruby gives you a great power: such as easy Dependency Injection. As the saying
+goes, "With great power there must also comes great responsibility!" It comes at
+a price. We cannot afford to blow off everything when shipping. That's why it's
+important to put in place different strategies to help us to catch errors asap,
+but also to avoid the cruft long term. Like a safety net, they allow you to go
+forward with more confidence.
 
 Tests are one of those safety nets, and it's a good thing they are well spread
 in the Ruby community. But this not the only ones. Tests cannot catch
