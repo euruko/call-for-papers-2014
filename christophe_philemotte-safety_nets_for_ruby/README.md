@@ -1,6 +1,6 @@
 # Safety Nets: Learn to code with confidence
 
-Ruby gives you a great power: such as easy Dependency Injection. As the saying
+Ruby gives you a great power, such as easy Duck Typing. As the saying
 goes, "With great power there must also comes great responsibility!" It comes at
 a price. We cannot afford to blow off everything when shipping. That's why it's
 important to put in place different strategies to help us to catch errors asap,
@@ -9,11 +9,12 @@ forward with more confidence.
 
 Tests are one of those safety nets, and it's a good thing they are well spread
 in the Ruby community. But this not the only ones. Tests cannot catch
-everything, we need to set up other ones such as code review or static code
-analysis. In this talk, I'll first give reasons why, I think, it's important to
-set up some safety nets. I'll then discuss each of them, how they works, what can they
-catch, and their pros and cons. I'll try as much as possible to illustrate them.
-As conclusion, I'll end with a "how to start right now".
+everything, we need to set up other ones. In this talk, I'll take a tour of
+various safety nets: Tests but also CI, code reviews, and static analysis. I'll
+focus on the benefits they give, how they work, what kind of problems they can
+catch, illustrating them with various real world experiences. People will walk
+away with several actions they can take to increase their confidence in their
+code.
 
 ## Why it's important?
 
