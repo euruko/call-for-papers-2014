@@ -1,4 +1,4 @@
-# Safety Nets for Ruby: Habits to code with confidence
+# Safety Nets: Learn to code with confidence
 
 Ruby gives you a great power: such as easy Dependency Injection. As the saying
 goes, "With great power there must also comes great responsibility!" It comes at
