@@ -28,6 +28,10 @@ of talk about tests, TDDs, and CI, we should go one step further, IMHO.
 
 The talk is accessible to junior developer.
 
+## Notes
+
+I gave a simpler version of the talk at [BRUG](https://github.com/8thcolor/brug-131105) and [Paris.rb](http://vimeo.com/86134344).
+
 ## Christophe Philemotte
 
 Christophe is C?O and CoFounder at [PullReview](https://pullreview.com),
